@@ -93,7 +93,7 @@ body{
 
 .kitten {content: url("images/aii.jpg");}
 
-/*this is where the website becomes responsive into a phone and this when it goes into scrollable like a phone as well*/
+/*this is where the website becomes responsive into a phone and this when it goes into scrollable like a phone as well The body switches to block And we resize the images and make it so it is not ditorted as it gets smaller*/
 @media only screen and (max-width: 675px) {
 	body{
 		display:block
